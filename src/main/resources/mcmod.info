@@ -1,0 +1,21 @@
+[
+{
+  "modid": "solarcraft_main",
+  "name": "SolarCraft",
+  "description": "A minecraft space mod that you actually want to play",
+  "version": "${project.version}",
+  "mcversion": "${minecraft.version}",
+  "url": "https://github.com/ZephyrMC-Dev/SolarCraft",
+  "updateUrl": "",
+  "authors": [
+    "ZephyrusMC",
+    "WinMac32"
+  ],
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+      "mod_MinecraftForge"
+  ]
+}
+]
