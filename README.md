@@ -2,6 +2,7 @@
 
 This project is designed to replace prior space exploration mods and expand upon the elements of actual exploration.
 
+[Project TODO](https://github.com/ZephyrMC-Dev/SolarCraft/blob/master/TODO.md)
 
 <h3>Sounds great! How can I help!?</h3>
 
