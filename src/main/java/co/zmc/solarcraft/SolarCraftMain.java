@@ -17,21 +17,21 @@ public class SolarCraftMain {
   @Instance(Globals.MOD_ID)
   public static SolarCraftMain instance;
 
-  @SidedProxy(clientSide = "co.zmc.solarcraft.proxy.ClientProxy", serverSide = "co.zmc.solarcraft.proxy.ServerProxy")
+  @SidedProxy(clientSide = Globals.MOD_PACKAGE + ".proxy.ClientProxy", serverSide = Globals.MOD_PACKAGE + ".proxy.ServerProxy")
   public static Proxy proxy;
-  
+
   @EventHandler
   public void onPreInit(FMLPreInitializationEvent e) {
-	  
+
   }
-  
+
   @EventHandler
   public void onInit(FMLInitializationEvent e) {
-	  
+
   }
-  
+
   @EventHandler
   public void onPostInit(FMLPostInitializationEvent e) {
-	  
+
   }
 }
